@@ -3,7 +3,7 @@ import json
 import telebot
 
 # Inserisci qui il token del tuo bot Telegram
-TOKEN = "6807094562:AAHWpFnvNoOUU09NhPHsL8y27D9uHi9_NU4"
+TOKEN = "token_bot"
 
 # Inizializzazione del bot
 bot = telebot.TeleBot(TOKEN)
